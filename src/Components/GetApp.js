@@ -16,14 +16,14 @@ const GetApp = () => {
           <div className="flex w-full flex-col gap-3 whitespace-nowrap xl:flex-row">
             <Button
               type="button"
-              title="Download Now"
+              title="App Store"
               icon="/apple.svg"
               variant="btn_white"
               full
             />
             <Button
               type="button"
-              title="Download Now"
+              title="Play Store"
               icon="/android.svg"
               variant="btn_dark_green_outline"
               full
